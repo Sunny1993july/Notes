@@ -11,12 +11,11 @@ It is have section called *elements*.
   -> Top most element -> *root*.
   -> Elements of child elements -> *sub-child element*.
   -> Name-value pair (Only one value exists) that exist within start-tag or empth-element tag -> *Attribute*
-   
-    ```
+
+```
       <ElementName Attribute= value> </ElementName>
 ```
 
-
--The example XML was taken from below link:
+####The example XML was taken from below link:
 <https://learn.microsoft.com/en-us/previous-versions/windows/desktop/ms762271(v=vs.85)>
 
