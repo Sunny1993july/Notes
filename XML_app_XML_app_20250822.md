@@ -8,5 +8,10 @@ It is have section called *elements*.
     -> Beginning tag <ElemeName>.
     -> Ending tag </ELementName>.
     -> These can have its own elements -> *child element*.
-    ->
-
+    -> Top most element -> *root*.
+    -> Elements of child elements -> *sub-child element*.
+    -> Name-value pair (Only one value exists) that exist within start-tag or empth-element tag -> *Attribute*
+        -Example 
+    '''
+      <ElementName Attribute= value> </ElementName>
+'''
