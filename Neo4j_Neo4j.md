@@ -40,5 +40,8 @@ Graph database is use when the data and its relationship, both are important.
 
 - Nodes
   - In above example, the square in graph is *Node*.
-  - They typically represent an **objects** or **entities**.  
+  - They typically represent an *objects* or *entities*.
+  - Eg. people, locations and customers.
+  - 
+
 
