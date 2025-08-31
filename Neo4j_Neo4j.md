@@ -42,6 +42,22 @@ Graph database is use when the data and its relationship, both are important.
   - In above example, the square in graph is *Node*.
   - They typically represent an *objects* or *entities*.
   - Eg. people, locations and customers.
+  - Each entity are stored as a separate node in the graph.
+
+- Labels
+  - The nodes are grouped by using *labels*.
+  - Like person, customer
+  - Same types of Nodes have same label.
+  - mainly used to filter the Nodes.
+  - A Node can has multiple labels
+
+- Relationships
+  - The lines in the above graph are *relationship*.
+  - Describe how nodes are connected with each other.
+  - *Start* and *End* nodes are connected.
+  - All the relationship has:
+    - *type*
+    - *direction*
   - 
 
 
