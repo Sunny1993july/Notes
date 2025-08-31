@@ -58,6 +58,12 @@ Graph database is use when the data and its relationship, both are important.
   - All the relationship has:
     - *type*
     - *direction*
-  - 
+  - Nodes can have multiple relationships.
+
+- Properties
+  - Can store data against nodes and relationships as *properties*.
+  - It is key-value pair.
+
+
 
 
