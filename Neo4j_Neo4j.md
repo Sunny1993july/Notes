@@ -70,6 +70,16 @@ Graph database is use when the data and its relationship, both are important.
 >the memory. When querying, the pointer is used.
 >This is used query faster.
 
+#### The Graph database has its own query langauge -> *GPL*.
+#### *Cypher* (a declarative langauge) is the implementation of GQL in Neo4j.
+
+##### Cypher is a declarative query langauge that allows
+##### to identify the patterns in the data using
+##### an *ASCII-art style syntx* consisting of
+##### *brackets*, *dashes*  and *arrows*.
+
+
+
 
 
 
