@@ -65,5 +65,13 @@ Graph database is use when the data and its relationship, both are important.
   - It is key-value pair.
 
 
+>When relationship is created between the two odes, 
+>a pointer to the relationship is created and stored in 
+>the memory. When querying, the pointer is used.
+>This is used query faster.
+
+
+
+
 
 
