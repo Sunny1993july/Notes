@@ -30,4 +30,7 @@
 
 
 ```
+#### Neo4J is a database that use the graph to store the data.
+
+Graph database is use when the data and its relationship, both are important.
 
